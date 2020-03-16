@@ -1,3 +1,5 @@
-#MyDinner
+# MyDinner
 
-Android application for recommending dishes for every user and place an order
+Android application:
+- recommending dishes for every user
+- placing orders by users
