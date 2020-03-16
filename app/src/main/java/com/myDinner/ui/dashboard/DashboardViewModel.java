@@ -1,4 +1,4 @@
-package myDinner.ui.dashboard;
+package com.myDinner.ui.dashboard;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

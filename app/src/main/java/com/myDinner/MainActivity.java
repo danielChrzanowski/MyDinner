@@ -1,17 +1,16 @@
-package myDinner;
+package com.myDinner;
 
 import android.os.Bundle;
 
 import com.example.mydinner.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.handling.LogIn;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
-
-import handling.LogIn;
 
 public class MainActivity extends AppCompatActivity {
 

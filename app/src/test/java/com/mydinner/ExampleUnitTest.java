@@ -1,4 +1,4 @@
-package com.example.mydinner;
+package com.mydinner;
 
 import org.junit.Test;
 

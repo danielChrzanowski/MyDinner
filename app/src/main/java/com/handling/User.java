@@ -1,4 +1,4 @@
-package handling;
+package com.handling;
 
 public class User {
 
